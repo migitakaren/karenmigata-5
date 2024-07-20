@@ -1,1 +1,1 @@
-alert('私の好きな曲！！');
+alert('seventeenについて');
